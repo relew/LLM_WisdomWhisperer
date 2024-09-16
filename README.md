@@ -96,6 +96,8 @@ The `.env` file contains the necessary environmental variables.
 
 ## Monitoring
 
+![grafana_picture](pictures/grafana.png)
+
 **Grafana** is used to collect user feedback, and a monitoring dashboard is available with over 5 charts visualizing various metrics.
 
 ## How to Run the Application
