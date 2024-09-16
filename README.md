@@ -1,5 +1,7 @@
 # Philosophy Assistant
 
+![app_picture](pictures/streamlit.png)
+
 ## Problem Description
 
 In an increasingly complex world, understanding philosophical principles can offer valuable insights into personal growth, decision-making, and well-being. However, accessing and interpreting philosophical wisdom from diverse traditions like Stoicism and Zen can be challenging for many people. 
